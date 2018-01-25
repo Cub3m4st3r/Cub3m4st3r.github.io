@@ -11,6 +11,16 @@
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Autoimmune Diseases and Chronic Inflammation</title>
+      <link>https://Cub3m4st3r.github.io/project/autoimmunity/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://Cub3m4st3r.github.io/project/autoimmunity/</guid>
+      <description>&lt;p&gt;Autoimmune diseases are characterized by incurable chronic inflammation and poor quality of life. New mechanistic targets and treatment modalities are needed. We aim to understand the molecular basis of autoimmune disease and develop candidate interventions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Design Rules for Immunomodulation by Host-Defense Peptides</title>
       <link>https://Cub3m4st3r.github.io/project/immunomodulation/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -27,6 +37,16 @@
       
       <guid>https://Cub3m4st3r.github.io/project/ml-membrane-activity/</guid>
       <description>&lt;p&gt;We combine machine learning with calibrating X-ray measurements of induced negative Gaussian curvature by helical antimicrobial peptides to develop a screening tool that can broadly discover hidden membrane-remodeling activity in diverse families of peptides and proteins with various primary functions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multifunctional Peptides and Proteins</title>
+      <link>https://Cub3m4st3r.github.io/project/multifunctional/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://Cub3m4st3r.github.io/project/multifunctional/</guid>
+      <description>&lt;p&gt;We use bioinformatics and machine learning to decompose how amino acid sequences can encode multiple functions in the same protein. These span antimicrobial peptides, cytokines, apoptosis regulators, bacterial secretion systems, and other membrane-remodeling proteins.&lt;/p&gt;
 </description>
     </item>
     

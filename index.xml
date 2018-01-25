@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Primum</title>
+      <link>https://Cub3m4st3r.github.io/post/welcome/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://Cub3m4st3r.github.io/post/welcome/</guid>
+      <description>&lt;p&gt;Welcome to my academic webpage! You will find continual updates to my publications and research interests, along with my CV and upcoming talks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Molecular Motor Dnm1 Synergistically Induces Membrane Curvature To Facilitate Mitochondrial Fission.</title>
       <link>https://Cub3m4st3r.github.io/publication/lee_2017gv/</link>
       <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
@@ -137,16 +147,6 @@
       
       <guid>https://Cub3m4st3r.github.io/publication/realegeno_2016ex/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Design Rules for Immunomodulation by Host-Defense Peptides</title>
-      <link>https://Cub3m4st3r.github.io/project/immunomodulation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://Cub3m4st3r.github.io/project/immunomodulation/</guid>
-      <description>&lt;p&gt;We combine state of the art X-ray measurements with computer simulations and immune cell measurements to delineate structural design principles for molecules that modulate of Toll-like receptor signaling. Of particular interest are electrostatically self-assembled antimicrobial peptide-nucleic acid nanocrystals that amplify inflammation in autoimmune disease.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
