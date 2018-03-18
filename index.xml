@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ernest Lee on Ernest Lee</title>
+    <title>Ernest Y. Lee on Ernest Y. Lee</title>
     <link>https://Cub3m4st3r.github.io/</link>
-    <description>Recent content in Ernest Lee on Ernest Lee</description>
+    <description>Recent content in Ernest Y. Lee on Ernest Y. Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Ernest Lee</copyright>
+    <copyright>&amp;copy; 2018 Ernest Y. Lee</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Multigenerational Memory and Adaptive Adhesion in Early Bacterial Biofilm Communities.</title>
+      <link>https://Cub3m4st3r.github.io/publication/lee_2018pnas/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://Cub3m4st3r.github.io/publication/lee_2018pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cathelicidin promotes inflammation by enabling binding of self-RNA to cell surface scavenger receptors.</title>
+      <link>https://Cub3m4st3r.github.io/publication/takahashi_2018je/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://Cub3m4st3r.github.io/publication/takahashi_2018je/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulation of toll-like receptor signaling by antimicrobial peptides.</title>
+      <link>https://Cub3m4st3r.github.io/publication/lee_2018gc/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://Cub3m4st3r.github.io/publication/lee_2018gc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Primum</title>
@@ -119,34 +146,6 @@
       <guid>https://Cub3m4st3r.github.io/talk/apsmarch2018_1/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Machine learning and membrane remodeling activity</title>
-      <link>https://Cub3m4st3r.github.io/talk/aspen2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      
-      <guid>https://Cub3m4st3r.github.io/talk/aspen2018/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mapping membrane activity in undiscovered peptide sequence space using machine learning.</title>
-      <link>https://Cub3m4st3r.github.io/publication/lee_2016km/</link>
-      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://Cub3m4st3r.github.io/publication/lee_2016km/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S100A12 Is Part of the Antimicrobial Network against Mycobacterium leprae in Human Macrophages.</title>
-      <link>https://Cub3m4st3r.github.io/publication/realegeno_2016ex/</link>
-      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://Cub3m4st3r.github.io/publication/realegeno_2016ex/</guid>
-      <description></description>
     </item>
     
   </channel>

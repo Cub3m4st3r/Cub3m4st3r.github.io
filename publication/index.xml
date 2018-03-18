@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Ernest Lee</title>
+    <title>Publications on Ernest Y. Lee</title>
     <link>https://Cub3m4st3r.github.io/publication/</link>
-    <description>Recent content in Publications on Ernest Lee</description>
+    <description>Recent content in Publications on Ernest Y. Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Ernest Lee</copyright>
+    <copyright>&amp;copy; 2018 Ernest Y. Lee</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Multigenerational Memory and Adaptive Adhesion in Early Bacterial Biofilm Communities.</title>
+      <link>https://Cub3m4st3r.github.io/publication/lee_2018pnas/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://Cub3m4st3r.github.io/publication/lee_2018pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cathelicidin promotes inflammation by enabling binding of self-RNA to cell surface scavenger receptors.</title>
+      <link>https://Cub3m4st3r.github.io/publication/takahashi_2018je/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://Cub3m4st3r.github.io/publication/takahashi_2018je/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulation of toll-like receptor signaling by antimicrobial peptides.</title>
+      <link>https://Cub3m4st3r.github.io/publication/lee_2018gc/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://Cub3m4st3r.github.io/publication/lee_2018gc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Molecular Motor Dnm1 Synergistically Induces Membrane Curvature To Facilitate Mitochondrial Fission.</title>
@@ -115,15 +142,6 @@
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://Cub3m4st3r.github.io/publication/lee_2016fb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oxidation of Membrane Curvature-Regulating Phosphatidylethanolamine Lipid Results in Formation of Bilayer and Cubic Structures.</title>
-      <link>https://Cub3m4st3r.github.io/publication/sankhagowit_2016et/</link>
-      <pubDate>Thu, 03 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://Cub3m4st3r.github.io/publication/sankhagowit_2016et/</guid>
       <description></description>
     </item>
     
